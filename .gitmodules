@@ -13,3 +13,6 @@
 [submodule "vim-matrix-screensaver"]
 	path = vim-matrix-screensaver
 	url = git@github.com:uguu-org/vim-matrix-screensaver.git
+[submodule "vim-coffee-script"]
+	path = vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
