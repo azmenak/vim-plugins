@@ -19,3 +19,9 @@
 [submodule "vim-indent-guides"]
 	path = vim-indent-guides
 	url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "vim-proc"]
+	path = vim-proc
+	url = git@github.com:Shougo/vimproc.vim.git
+[submodule "vim-ag"]
+	path = vim-ag
+	url = git@github.com:rking/ag.vim.git
