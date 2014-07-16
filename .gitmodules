@@ -25,3 +25,6 @@
 [submodule "vim-ag"]
 	path = vim-ag
 	url = git@github.com:rking/ag.vim.git
+[submodule "vim-ctrlp-tjump"]
+	path = vim-ctrlp-tjump
+	url = git@github.com:ivalkeen/vim-ctrlp-tjump.git
