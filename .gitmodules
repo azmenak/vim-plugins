@@ -10,9 +10,6 @@
 [submodule "vim-bufferline"]
 	path = vim-bufferline
 	url = https://github.com/bling/vim-bufferline
-[submodule "vim-matrix-screensaver"]
-	path = vim-matrix-screensaver
-	url = git@github.com:uguu-org/vim-matrix-screensaver.git
 [submodule "vim-coffee-script"]
 	path = vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
@@ -28,3 +25,6 @@
 [submodule "vim-ctrlp-tjump"]
 	path = vim-ctrlp-tjump
 	url = git@github.com:ivalkeen/vim-ctrlp-tjump.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
