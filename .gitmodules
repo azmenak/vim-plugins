@@ -28,3 +28,15 @@
 [submodule "vim-matrix-screensaver"]
 	path = vim-matrix-screensaver
 	url = git@github.com:uguu-org/vim-matrix-screensaver.git
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = git@github.com:jiangmiao/auto-pairs.git
+[submodule "vim-jade"]
+	path = vim-jade
+	url = git@github.com:digitaltoad/vim-jade.git
+[submodule "vim-stylus"]
+	path = vim-stylus
+	url = git@github.com:wavded/vim-stylus.git
+[submodule "vim-easy-align"]
+	path = vim-easy-align
+	url = git@github.com:junegunn/vim-easy-align.git
